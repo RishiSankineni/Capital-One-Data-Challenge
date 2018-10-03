@@ -1,7 +1,8 @@
 # Capital-One-Data-Challenge
-Data Scientist 
 
-Data Science Challenge: Trips!
+## Data Scientist Position 
+
+### Data Science Challenge: Trips!
 
 This coding challenge is designed to test your skill and intuition about real world data. For the challenge, we will use data collected by the New York City Taxi and Limousine commission about “Green” Taxis. Green Taxis (as opposed to yellow ones) are taxis that are not allowed to pick up passengers inside of the densely populated areas of Manhattan. We will use the data from September 2015. We are using NYC Taxi and Limousine trip record data: (http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml).
 
